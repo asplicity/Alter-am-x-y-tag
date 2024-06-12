@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alter-am-x-y-tag")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5aed55e9cec9914d25d5b8ceab66617c278c7a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alter-am-x-y-tag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alter-am-x-y-tag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

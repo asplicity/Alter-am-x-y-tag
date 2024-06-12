@@ -14,7 +14,7 @@ internal class Program
         var difference = date - Birthday;
         var days = difference.Days;
         var Years = days / 365;
-        var Months = (days % 365) / 30;
+        var Months = (days % 365) / 30; 
         var Days = (days % 365) % 30;
         Console.WriteLine($"Du wirst am {date} {Years} Jahre, {Months} Monate und {Days} Tage alt sein");
     }
