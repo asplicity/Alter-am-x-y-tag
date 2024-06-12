@@ -1,0 +1,14 @@
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\bin\Debug\net8.0\Alter-am-x-y-tag.exe
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\bin\Debug\net8.0\Alter-am-x-y-tag.deps.json
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\bin\Debug\net8.0\Alter-am-x-y-tag.runtimeconfig.json
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\bin\Debug\net8.0\Alter-am-x-y-tag.dll
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\bin\Debug\net8.0\Alter-am-x-y-tag.pdb
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\Alter-am-x-y-tag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\Alter-am-x-y-tag.AssemblyInfoInputs.cache
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\Alter-am-x-y-tag.AssemblyInfo.cs
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\Alter-am-x-y-tag.csproj.CoreCompileInputs.cache
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\Alter-am-x-y-tag.dll
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\refint\Alter-am-x-y-tag.dll
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\Alter-am-x-y-tag.pdb
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\Alter-am-x-y-tag.genruntimeconfig.cache
+C:\Users\ticob\OneDrive\cs\Alter-am-x-y-tag\obj\Debug\net8.0\ref\Alter-am-x-y-tag.dll
